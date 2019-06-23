@@ -6,6 +6,6 @@
     "static": "frozone export"
   },
   "dependencies": {
-    "frozone": "0.0.1"
+    "frozone": "0.0.4"
   }
 }
